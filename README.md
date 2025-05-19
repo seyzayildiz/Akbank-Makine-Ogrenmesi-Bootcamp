@@ -25,7 +25,7 @@ Gelir sınıfı tahmini bir classification problemidir, bu yüzden lineer regres
 Bu calisma sayesinde gelir tahmini uzerine fena olmayan bir ilerleme kaydettigimi dusunuyorum. Modelin cikardigi sonuclar genel olarak dengeli ve makul geldi. Ilk sefer icin oldukca ogreticiydi. Ilerde boyle modellerin bankalar ya da finans alaninda, kisilerin gelirini dogrudan ogrenmeden tahmin etmek icin kullanilabilecegini hayal ediyorum. Mesela kredi onayinda ya da urun tavsiyelerinde daha saglikli kararlar alinmasina yardimci olabilir.
 Tabii daha yolun basindayim. Bu proje benim icin veri bilimi alaninda bir nevi giris noktasi oldu. Model su an fena calismiyor ama hala ogrenmem gereken cok sey var. Veri on isleme, parametre ayarlari ya da farkli algoritmalar denemek gibi eksiklerim oldugunun farkindayim. Ama bu calisma sayesinde bir seylerin temelini atmis olmak beni motive etti. Zamanla daha iyi projeler yapip, bu alanda kendimi daha da gelistirmek istiyorum.
 # Linkler
-Veri setim: https://www.kaggle.com/datasets/shreyshi/adultcsv  
+Veri setim: https://www.kaggle.com/datasets/uciml/adult-census-income  
 (Kaggle’da ayni veri seti uzerine yapilmis bazi projelere baktim, inceledigim calismalarin linklerini asagida paylasiyorum)  
 https://www.kaggle.com/code/eliamelfior2/classifica-o-com-machine-learning  
 https://www.kaggle.com/code/bhupendrarajput/complete-eda-and-machine-learning  
