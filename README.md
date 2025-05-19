@@ -1,3 +1,3 @@
 # Akbank-Makine-Ogrenmesi-Bootcamp
-##Giris
+Bu bootcamp
 
