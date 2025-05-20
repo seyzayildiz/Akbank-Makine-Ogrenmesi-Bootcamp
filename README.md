@@ -1,6 +1,8 @@
 # Akbank Makine Ogrenmesi Bootcamp Proje
 # Neden Bu Veri Seti
-Bu veri seti, bireylerin yillik gelir sinifini tahmin etmek icin gozetimli ogrenme yontemlerini kullanmamiza olanak sagliyor. Veri, gelir sinifini gosteren hedef degisken (income) ile birlikte, bu sonucu etkileyen farkli demografik ve ekonomik ozellikleri iceriyor. Hedef degisken iki siniftan olusuyor: "<=50K" ve ">50K". Bu sayede, elimizdeki ozellikleri kullanarak gelir sinifini dogru ve etkili sekilde tahmin etmeyi amacliyoruz.
+Bu veri setini secmemdeki en buyuk neden, gercek hayattan alinmis, anlamli ve cozulmesi gereken bir problemi temsil etmesi. Gelir sinifini tahmin etmek, hem toplumsal hem de finansal acidan onemli. Aynı zamanda veri setinin icindeki kategorik ve sayisal degisken cesitliligi, eksik ve aykiri degerler gibi durumlar model gelistirme surecini daha ogretici hale getiriyor.
+
+Ayrica hedef degiskenin dengesiz olmasi (yaklasik 3’e 1 oraninda) bu veri setini daha da ilginc kiliyor. Cunku bu gibi durumlarda dogru model kurmak, dogru metrik secmek (ben f1-score’a odaklandim) daha kritik hale geliyor. Kisacasi bu veri seti, hem teknik hem de dusunsel anlamda kendimi gelistirmem icin guzel bir baslangic noktasi oldu.
 # Kullandigim Kutuphaneler  
 **warnings**: Uyari mesajlarini gizler  
 **pandas (pd)**: Veri islemesi  
