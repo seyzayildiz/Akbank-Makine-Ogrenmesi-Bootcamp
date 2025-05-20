@@ -49,10 +49,10 @@ Tabii daha yolun basindayim. Bu proje benim icin veri bilimi alaninda bir nevi g
 ![image](https://github.com/user-attachments/assets/e1e7bfb4-0cb0-413e-9b5c-fb4978453909)
 
 # Modelin Degerlendirilmesi
-Modelimin Siniflandirma raporu:  
+Modelimin Siniflandirma Raporu:  
 <img width="826" alt="Screenshot 2025-05-20 at 02 50 56" src="https://github.com/user-attachments/assets/c8bbfde1-2626-4cb8-bb0e-b0863352927e" />
 
-Modelimin isi haritasi:  
+Modelimin Isi Haritasi:  
 ![image](https://github.com/user-attachments/assets/f8aa772a-8877-464d-88e6-2bc676fb371f)
 
 # Linkler
