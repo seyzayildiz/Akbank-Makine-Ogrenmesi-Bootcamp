@@ -61,7 +61,7 @@ Modelimin t-SNE Kume Dagilimi Grafigi
 
 # Linkler
 Veri setim: https://www.kaggle.com/datasets/uciml/adult-census-income    
-Kendi kaggle notebookum: https://www.kaggle.com/code/feyzayildizz/ml-project-xgboost
+Kendi kaggle notebookum: https://www.kaggle.com/code/feyzayildizz/ml-project-xgboost (Kaggle yukledikten sonra modelin gorselelsitirlmesi icin bazi seyleri kendi notebookume ekledim buradaki mlproject.ipynb son halidir.)
 (Kaggle’da ayni veri seti uzerine yapilmis bazi projelere baktim, inceledigim calismalarin linklerini asagida paylasiyorum)  
 https://www.kaggle.com/code/eliamelfior2/classifica-o-com-machine-learning  
 https://www.kaggle.com/code/bhupendrarajput/complete-eda-and-machine-learning  
