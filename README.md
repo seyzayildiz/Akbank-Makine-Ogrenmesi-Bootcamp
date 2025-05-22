@@ -38,6 +38,7 @@ Aykiri Deger Anlizi
 Veri Gorsellestirme  
 Veri Onisleme    
 Veriyi Gozetimli Ogrenme Modelleriyle Egitme  
+Model Degerlendirilmesi ve Sonuclarin Gorsellestirilmesi
 # Kullandığım Gözetimli Ogrenme Modelleri
 Logistic Regression, Random Forest, SVM, XGBoost, Gradient Boosting, KNN, Decision Tree, AdaBoost
 # Neden XGBoost
@@ -54,8 +55,9 @@ Tabii daha yolun basindayim. Bu proje benim icin veri bilimi alaninda bir nevi g
 Modelimin Siniflandirma Raporu:  
 <img width="826" alt="Screenshot 2025-05-20 at 02 50 56" src="https://github.com/user-attachments/assets/c8bbfde1-2626-4cb8-bb0e-b0863352927e" />
 
-Modelimin Isi Haritasi:  
-![image](https://github.com/user-attachments/assets/f8aa772a-8877-464d-88e6-2bc676fb371f)
+Modelimin t-SNE Kume Dagilimi Grafigi
+![image](https://github.com/user-attachments/assets/962856df-1896-4b02-888f-cd0b7264c3cc)
+
 
 # Linkler
 Veri setim: https://www.kaggle.com/datasets/uciml/adult-census-income    
