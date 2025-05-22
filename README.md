@@ -18,7 +18,7 @@ Ayrica hedef degiskenin dengesiz olmasi (yaklasik 3’e 1 oraninda) bu veri seti
 **sklearn.svm.SVC**: Destek vektor makinesi  
 **sklearn.neighbors.KNeighborsClassifier**: K-en yakin komsu  
 **sklearn.tree.DecisionTreeClassifier**: Karar agaci  
-**xgboost (xgb)**: Hızlı boosting  
+**xgboost (xgb)**: XGBoost
 **sklearn.model_selection.GridSearchCV**: Hiperparametre arama  
 **sklearn.metrics.accuracy_score**: Dogruluk hesapla  
 **sklearn.metrics.f1_score**: F1 skoru hesapla  
